@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/k19233kk/メディアコンピューティング2023/OpenCV動作確認用プログラム-20230412",
+      "program": "/Users/k19233kk/メディアコンピューティング2023/OpenCV動作確認用プログラム-20230412/build/Debug/outDebug"
+    }
+  ]
+}
